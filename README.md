@@ -32,3 +32,10 @@ I’m an aspiring Full Stack Developer who enjoys building clean and functional 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suganya58&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=suganya58&icon=0&color=0)](https://visitcount.itsvg.in)
+
