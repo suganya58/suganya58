@@ -11,7 +11,7 @@ I’m an aspiring Full Stack Developer who enjoys building clean and functional 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suganya58)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/suganya_58/)
-[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/DHAVAMANI_16)
+[![Codolio](https://img.shields.io/badge/Codolio-FF6F61?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/SUGANYA%20S)
 
 ---
 
