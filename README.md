@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=SUGANYA%20S">
+![Header](./github-header-banner (2)/.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FULLSTACK+DEVELOPER" alt="Typing SVG" /></a>
 
 ## About Me:
