@@ -1,5 +1,5 @@
 ![Header](./banner.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FULLSTACK+DEVELOPER" alt="Typing SVG" /></a>
+
 
 ## About Me:
 I’m an aspiring Full Stack Developer who enjoys building clean and functional web applications.<br>I’m currently learning front-end and back-end technologies to strengthen my development skills.
